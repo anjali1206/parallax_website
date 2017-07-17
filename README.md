@@ -1,2 +1,3 @@
 # parallax_website
-Demo of a simple parallax effect for the website. Built using HTML and CSS.
+
+A very basic implementation of a parallax website with fixed scrolling using HTML and CSS.
